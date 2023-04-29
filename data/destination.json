@@ -1,0 +1,21 @@
+[
+
+    {
+        "id": 1,
+        "destination_name": "Cox's Bazar",
+        "d_img": "https://i.ibb.co/GCKPfsR/coxsbazar.jpg",
+        "description": "Cox's Bazar is a town on the southeast coast of Bangladesh. It is known for its long sandy beach, which stretches for over 120 km. The town also has a number of tourist attractions, including the Himchori Waterfall, the Inani Beach, and the Cox's Bazar Buddhist Temple."
+    },
+    {
+        "id": 2,
+        "destination_name": "Sreemangal",
+        "d_img": "https://i.ibb.co/KWMZZy4/sreemangal.jpg",
+        "description": "Sreemangal is a town in the northeastern region of Bangladesh. It is known for its tea gardens, which produce some of the finest tea in the world. The town also has a number of tourist attractions, including the Lawachara National Park, the Baikka Beel Wetland Sanctuary, and the Madhabpur Lake."
+    },
+    {
+        "id": 3,
+        "destination_name": "Sundarbans",
+        "d_img": "https://i.ibb.co/MB6Wg4F/sundarbans.jpg",
+        "description": "The Sundarbans is a mangrove forest in the delta region of the Ganges, Brahmaputra, and Meghna rivers in Bangladesh and India. It is home to the Bengal tiger, as well as a variety of other endangered species. The Sundarbans is also known for its unique ecosystem, which is shaped by the ebb and flow of the tides."
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "hotel_name": "Sea Pearl Beach Resort & Spa",
+        "location": "Cox's Bazar",
+        "available_date": "2023-05-10",
+        "room_info": "Deluxe Room with Sea View",
+        "room_description": {
+            "guests": "2",
+            "bedrooms": "1",
+            "beds": "1",
+            "baths": "1"
+        },
+        "cancellation": true,
+        "rating": 4.5,
+        "price": 120
+    },
+    {
+        "id": 2,
+        "hotel_name": "Long Beach Hotel",
+        "location": "Cox's Bazar",
+        "available_date": "2023-05-12",
+        "room_info": "Executive Suite with Ocean View",
+        "room_description": {
+            "guests": "3",
+            "bedrooms": "1",
+            "beds": "2",
+            "baths": "1"
+        },
+        "cancellation": true,
+        "rating": 4.8,
+        "price": 200
+    },
+    {
+        "id": 3,
+        "hotel_name": "Hotel The Cox Today",
+        "location": "Cox's Bazar",
+        "available_date": "2023-05-15",
+        "room_info": "Super Deluxe Room",
+        "room_description": {
+            "guests": "2",
+            "bedrooms": "1",
+            "beds": "1",
+            "baths": "1"
+        },
+        "cancellation": true,
+        "rating": 4.2,
+        "price": 80
+    },
+    {
+        "id": 4,
+        "hotel_name": "Grand Sultan Tea Resort & Golf",
+        "location": "Sreemangal",
+        "available_date": "2023-05-11",
+        "room_info": "Deluxe King Room with Garden View",
+        "room_description": {
+            "guests": "2",
+            "bedrooms": "1",
+            "beds": "1",
+            "baths": "1"
+        },
+        "cancellation": true,
+        "rating": 4.6,
+        "price": 150
+    },
+    {
+        "id": 5,
+        "hotel_name": "Tea Heaven Resort",
+        "location": "Sreemangal",
+        "available_date": "2023-05-13",
+        "room_info": "Executive Suite with Garden View",
+        "room_description": {
+            "guests": "3",
+            "bedrooms": "1",
+            "beds": "2",
+            "baths": "1"
+        },
+        "cancellation": true,
+        "rating": 4.4,
+        "price": 100
+    },
+    {
+        "id": 6,
+        "hotel_name": "DuSai Resort & Spa",
+        "location": "Sreemangal",
+        "available_date": "2023-05-16",
+        "room_info": "Super Deluxe Room",
+        "room_description": {
+            "guests": "2",
+            "bedrooms": "1",
+            "beds": "1",
+            "baths": "1"
+        },
+        "cancellation": true,
+        "rating": 4.9,
+        "price": 250
+    },
+    {
+        "id": 7,
+        "hotel_name": "Sundarban Tiger Camp",
+        "location": "Sundarbans",
+        "available_date": "2023-05-14",
+        "room_info": "Tent with River View",
+        "room_description": {
+            "guests": "3",
+            "bedrooms": "1",
+            "beds": "2",
+            "baths": "1"
+        },
+        "cancellation": false,
+        "rating": 4.0,
+        "price": 50
+    },
+    {
+        "id": 8,
+        "hotel_name": "Mongla Eco Resort",
+        "location": "Sundarbans",
+        "available_date": "2023-05-17",
+        "room_info": "Cottage with Garden View",
+        "room_description": {
+            "guests": "3",
+            "bedrooms": "1",
+            "beds": "2",
+            "baths": "1"
+        },
+        "cancellation": true,
+        "rating": 4.3,
+        "price": 80
+    },
+    {
+        "id": 9,
+        "hotel_name": "Sundarban Royal Eco Resort",
+        "location": "Sundarbans",
+        "available_date": "2023-05-20",
+        "room_info": "Deluxe Room with River View",
+        "room_description": {
+            "guests": "3",
+            "bedrooms": "1",
+            "beds": "2",
+            "baths": "1"
+        },
+        "cancellation": true,
+        "rating": 4.7,
+        "price": 120
+    }
+]
